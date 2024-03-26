@@ -14,8 +14,7 @@
 
 🚀 Passion for Innovation: Committed to challenging the status quo and contributing to the transformative potential of artificial intelligence.
 
-**📈 Let's Connect:
-**
+**📈 Let's Connect:**
 Open to exciting opportunities to collaborate on innovative projects.
 Eager to bring my determination, sense of ownership, and technical expertise to your team.
 
