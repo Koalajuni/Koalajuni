@@ -19,5 +19,5 @@ Open to exciting opportunities to collaborate on innovative projects.
 Eager to bring my determination, sense of ownership, and technical expertise to your team.
 
 **📧 Contact:**
-LinkedIn | GitHub | Email: hyounjunl@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/hyoun-jun-lee-26911723b/) | [GitHub](https://github.com/Koalajuni) | Email: hyounjunl@gmail.com 
 Thank you for considering my application! 🚀
