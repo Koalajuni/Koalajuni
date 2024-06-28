@@ -6,6 +6,9 @@
   </a>
 </div>
 
+
+![Hyoun Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koalajuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 **👉 Why Me:**
 
 💪 Adaptability: Successfully navigated challenges and pivoted during the startup journey, showcasing resilience and problem-solving skills.
