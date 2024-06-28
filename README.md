@@ -6,9 +6,10 @@
   </a>
 </div>
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koalajuni)](https://github.com/Koalajuni/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koalajuni)]
+
+
 **👉 Why Me:**
 
 💪 Adaptability: Successfully navigated challenges and pivoted during the startup journey, showcasing resilience and problem-solving skills.
